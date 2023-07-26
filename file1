@@ -1,3 +1,6 @@
 mkdir,touch file1 , git add file1,git commit -am",essage"
 clone from repo
 git push
+
+
+just change somr\thing for file 1
